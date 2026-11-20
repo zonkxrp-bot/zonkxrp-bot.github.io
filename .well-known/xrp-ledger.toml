@@ -1,0 +1,14 @@
+# XRP Ledger TOML for $ZONK
+
+[[ACCOUNTS]]
+address = "rUJ2i1U9vG7Y74PnEGEiPjmVUNuNjwVRxt"
+desc = "ZONK Token Issuer"
+
+[[TOKENS]]
+currency = "5A4F4E4B00000000000000000000000000000000"
+issuer = "rUJ2i1U9vG7Y74PnEGEiPjmVUNuNjwVRxt"
+name = "ZONK"
+desc = "The tired vulture of the XRP Ledger. Zonked-out, zero effort, still here."
+icon = "https://zonkxrp-bot.github.io/.well-known/logo.png"
+telegram = "https://t.me/Zonkxrp"
+twitter = "https://x.com/Zonkxrp"
